@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-web-app",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniel Eslava",
+    "alias": "EslavaDev",
+    "email": "danieleslava52@gmail.com"
+  },
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.2.3"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "mobx": "^2.5.0",
+    "mobx-react": "^3.5.5",
+    "mobx-react-devtools": "^4.2.5",
+    "react": "^15.3.1",
+    "react-bootstrap": "^0.32.2",
+    "react-dom": "^15.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}
