@@ -26,5 +26,6 @@ class TiendaController {
     }
 
 }
+var VarTiendaController = new TiendaController
 
-export default  TiendaController;;
+export default  VarTiendaController;
