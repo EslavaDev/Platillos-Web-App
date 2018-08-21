@@ -1,0 +1,38 @@
+.ImagenPlatillo{
+	height: 80px;
+	width: 80px;
+	float: left;
+}
+.Platillo-Menu{
+	max-height: 500px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.Pedidos-Menu{
+	max-height: 600px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.TitlePlatillo{
+	margin-top: 0;
+	text-align: left;
+}
+.DescripcionPlatillo{
+	text-align: justify;
+}
+.PrecioPlatillo{
+	margin-left: 60px;
+}
+.EspacioPlatillo{
+	float: right;
+	margin-left: 10px;
+}
+.AlineacionBoton{
+	float: right;
+}
+.APrecioCantidad{
+	float: right;
+}
+.ListMargin{
+	margin-left: 20px;
+}

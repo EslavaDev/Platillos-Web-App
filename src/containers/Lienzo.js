@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import TiendaName from '../components/tiendaName';
-import Platillos from '../components/platillos';
+import PlatilloContainer  from './Platillo-Container'
 import Pedidos from '../components/pedidos';
+
 class Lienzo extends Component {
     render() {
         return (
             <div className="container">
                 <TiendaName name={"Tiendita lufita"} />
-                <Platillos />
+                <PlatilloContainer/>
+                
                 <Pedidos /> 
             </div>
         );
